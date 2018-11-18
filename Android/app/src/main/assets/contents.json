@@ -113,6 +113,37 @@
           "emojis": ["🔋","😵"]
         }
       ]
+    },
+    {
+      "identifier": "2",
+      "name": "Allah-Calligraphy",
+      "publisher": "freeislamiccalligraphy",
+      "tray_image_file": "tray_Cuppy.png",
+      "publisher_email":"s.munwwer@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Allah-Maghribi-Tij-final.webp"
+        },
+        {
+          "image_file": "02_Cuppy_lol.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_Cuppy_rofl.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_Cuppy_sad.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05_Cuppy_cry.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
     }
   ]
 }
